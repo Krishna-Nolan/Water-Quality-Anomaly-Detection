@@ -1,5 +1,5 @@
-# Water-Quality-Anomaly-Detection
+### Water-Quality-Anomaly-Detection
 
-CNN , ELM and Hybrid CNN-ELM implementation of water quality anomaly detection.
+Hybrid CNN-ELM implementation of water quality anomaly detection.
 
 ![alt text](CNN-ELM.png)
